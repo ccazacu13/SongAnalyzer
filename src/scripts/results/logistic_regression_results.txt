@@ -1,0 +1,7 @@
+tuned hpyerparameters :(best parameters)  {}
+accuracy : 0.6624093585500652
+tuned hpyerparameters :(best parameters)  {'penalty': 'l2', 'solver': 'liblinear'}
+accuracy : 0.662611787699863
+tuned hpyerparameters :(best parameters)  {'C': 0.5, 'penalty': 'l2', 'solver': 'newton-cg'}
+accuracy : 0.6703164135960121
+END C=10, penalty=None, solver=newton-cg;, score=0.682 total time=   0.0s
