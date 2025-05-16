@@ -4,4 +4,13 @@ tuned hpyerparameters :(best parameters)  {'penalty': 'l2', 'solver': 'liblinear
 accuracy : 0.662611787699863
 tuned hpyerparameters :(best parameters)  {'C': 0.5, 'penalty': 'l2', 'solver': 'newton-cg'}
 accuracy : 0.6703164135960121
-END C=10, penalty=None, solver=newton-cg;, score=0.682 total time=   0.0s
+tuned hpyerparameters :(best parameters) {}
+accuracy : 0.6624027542401153
+tuned hpyerparameters :(best parameters) {'penalty': 'l2', 'solver': 'lbfgs'}
+accuracy : 0.6624027542401153
+Preprocess parameters: {'remove_non_string': True, 'remove_punctuation': True, 'lower_case': True, 'remove_numbers': True, 'replace_broken_words': True, 'replace_duplicate_letters': True, 'replace_number_with_NUMBER': False, 'remove_non_ASCII': True}
+tuned hpyerparameters :(best parameters) {'penalty': 'l2', 'solver': 'lbfgs'}
+accuracy : 0.6624027542401153
+Preprocess parameters: {'remove_non_string': True, 'remove_punctuation': True, 'lower_case': True, 'remove_numbers': True, 'replace_broken_words': True, 'replace_duplicate_letters': True, 'replace_number_with_NUMBER': False, 'remove_non_ASCII': True}
+tuned hpyerparameters :(best parameters) {'penalty': 'l2', 'solver': 'lbfgs'}
+accuracy : 0.6624027542401153
